@@ -4,6 +4,6 @@
 
 ## Run via ruby main.rb
 
-Articles link: https://medium.com/me/stories/public
+Articles link: https://medium.com/@giy.marie
 
 Article: UI Automation testing - Ruby Capybara version
